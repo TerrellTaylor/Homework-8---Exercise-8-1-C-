@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNUTXOS00fE=",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\Augusta Tech\\Assignments\\Spring 2026\\CIST2341 - C# Programming I\\Unit 8\\Homework 8\\InvoiceTotal\\InvoiceTotal\\InvoiceTotal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terrell Taylor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Terrell Taylor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Terrell Taylor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Terrell Taylor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

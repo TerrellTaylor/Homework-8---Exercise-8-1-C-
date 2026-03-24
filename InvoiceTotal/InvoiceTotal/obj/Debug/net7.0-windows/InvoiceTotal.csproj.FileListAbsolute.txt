@@ -1,0 +1,17 @@
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.exe
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.deps.json
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.runtimeconfig.json
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.dll
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.pdb
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.sourcelink.json
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.dll
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\refint\InvoiceTotal.dll
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.pdb
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+E:\Documents\Augusta Tech\Assignments\Spring 2026\CIST2341 - C# Programming I\Unit 8\Homework 8\InvoiceTotal\InvoiceTotal\obj\Debug\net7.0-windows\ref\InvoiceTotal.dll
